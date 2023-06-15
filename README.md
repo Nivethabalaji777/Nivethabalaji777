@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nivetha T</h1>
 <h3 align="center">A passionate Full Stack MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-# 💫 About Me:
+
 - 🌱 I’m currently learning **Full Stack MERN development**
 - 📫 How to reach me **nivethabharathi77@gmail.com**
 
