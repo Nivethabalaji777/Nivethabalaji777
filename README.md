@@ -6,7 +6,6 @@
 - 📫 How to reach me **nivethabharathi77@gmail.com**
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nivethabalaji777)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivetha777/)
 
 <h3 align="left">Languages and Tools:</h3>
